@@ -1,0 +1,20 @@
+Hello,
+
+
+I present to you Spider Deploy, developed by me with SAPIEN POWERSHELL STUDIO
+
+Allows you to add and remove computers to SCCM collections. (System Center Configuration Manager).
+
+
+
+required : 
+
+- SCCM must be installed in your computer.
+
+- You must change setting in ps1
+
+#----------------------------------------------# VARIABLES#----------------------------------------------
+
+ $script:site = "YourCODESITE"
+
+ $script:Server = "YourServerSCCM"
